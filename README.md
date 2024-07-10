@@ -3,11 +3,11 @@
 ## À propos de moi
 Je suis un développeur Full Stack et titulaire d'un master en Cybersécurité. Passionné par la transformation digitale et les technologies de surveillance, je cherche constamment à innover et à améliorer la sécurité des systèmes d'information.
 
-- 🔭 Je travaille actuellement sur : [Nom du projet en cours]
-- 🌱 J'apprends actuellement : [Technologies/compétences que vous apprenez]
+- 🔭 Je travaille actuellement sur : CyberRepportX
+- 🌱 J'apprends actuellement : .Net
 - 💬 Posez-moi des questions sur : Cybersécurité, développement Full Stack, transformation digitale
-- 📫 Comment me contacter : [Email professionnel]
-- ⚡ Fait amusant : [Un fait intéressant sur vous]
+- 📫 Comment me contacter : te.idrissa@gmail.com
+- ⚡ Fait amusant : Je rêve souvent des bugs que je rencontre sur mes codes hh
 
 ## 🛠️ Langages et Outils
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
