@@ -24,7 +24,7 @@ Je suis un développeur Full Stack et titulaire d'un master en Cybersécurité. 
 
 ## 📈 Statistiques TryHackMe
 
-![Texte alternatif](https://tryhackme-badges.s3.amazonaws.com/tidriss.png)
+![Texte alternatif]([https://tryhackme-badges.s3.amazonaws.com/tidriss.png](https://tryhackme.com/badge/429030))
 
 ## 🚀 Projets
 
