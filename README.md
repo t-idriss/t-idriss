@@ -22,7 +22,7 @@ Je suis un développeur Full Stack et titulaire d'un master en Cybersécurité. 
 ![Les statistiques GitHub de [Votre Nom]](https://github-readme-stats.vercel.app/api?username=t-idriss&show_icons=true&theme=radical)
 
 ## 📈 Statistiques TryHackMe
-![Texte alternatif]([chemin/vers/image.jpg](https://tryhackme-badges.s3.amazonaws.com/tidriss.png))
+![Texte alternatif](https://tryhackme-badges.s3.amazonaws.com/tidriss.png)
 
 ## 🚀 Projets
 - [Nom du Projet 1](lien vers le projet)
